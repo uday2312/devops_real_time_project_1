@@ -251,8 +251,8 @@
 	
  <!--  <sonar.jdbc.url>your database URL</sonar.jdbc.url>
 <sonar.jdbc.driver>Your database driver</sonar.jdbc.driver>
-<sonar.jdbc.username>DB username</sonar.jdbc.username>
-<sonar.jdbc.password>db password</sonar.jdbc.password>        -->                 
+<sonar.jdbc.username>DB username</sonar.jdbc.username>admin
+<sonar.jdbc.password>db password</sonar.jdbc.password>admin        -->                 
 
             </properties>
         </profile>
